@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* div{
+	max-width: 960px;
+}
+id의 스타일
+*/
+
+/*#container{
+	max-width: 960px;
+}
+id의 스타일*/
+
+.container{
+	max-width: 960px;
+	background: silver;
+	/*margin: 0 auto 0 auto;*/
+	margin: 0 auto;
+
+}
+/*class의 스타일*/
+
+.header>h1{
+
+}
+/* ">" 자식선택자, 클래스 네임을 붙히지 않았을떄 선택*/
